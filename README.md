@@ -10,9 +10,8 @@
 ---
 
 ### 🌟 About Me  
-- 🎓 B.E. Computer Science & Engineering @ **Chennai Institute of Technology (2025)**  
+- 🎓 Computer Science Student**  
 - 💻 Passionate about **Automation | Cloud | Full-Stack Development**  
-- 🏆 Finalist @ **Hackmol 4.0** & **Buildathon**  
 - 🌱 Currently exploring **System Design & Advanced Cloud Architectures**  
 - 📫 Reach me at: **[k.ragularvinth@gmail.com](mailto:k.ragularvinth@gmail.com)**  
 
@@ -21,7 +20,7 @@
 ### 🔧 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,angular,spring,aws,azure,linux,mysql,git,postman" />
+  <img src="https://skillicons.dev/icons?i=python,java,angular,spring,fastapi,aws,azure,gcp,linux,docker,mysql,git,postman," />
 </p>
 
 ---
@@ -40,28 +39,10 @@
 
 ---
 
-### 🚀 Projects  
-
-- 🌐 [**Hosting ReactApp on AWS S3 with CI/CD Pipeline**](https://github.com/RagulArvinth/My-Port)  
-  *ReactJS + AWS S3 + CloudFront + CodePipeline* → 99.9% uptime with automated CI/CD  
-
-- 🖧 [**Optimized Virtual College Network Design**](https://github.com/RagulArvinth/virtual-college-network)  
-  *Subnetting, RIP Routing, DHCP, DNS Integration* → Simulated scalable campus network  
-
----
-
 ### 📜 Certifications  
 
 - ☁️ **AWS Certified Cloud Practitioner (CLF-C02)**  
 - 🔹 **Microsoft Azure Fundamentals (AZ-900)**  
-- 🐍 **Programming Essentials in Python – Cisco Networking Academy**  
-
----
-
-### 🏆 Achievements  
-
-- 🎖️ Finalist – **Hackmol 4.0 Hackathon (GDSC NIT Jalandhar)** → *Top 15 out of 507 teams*  
-- 🎖️ Finalist – **Buildathon (CIT Chennai)** → *Top 5 among multiple colleges*  
 
 ---
 
@@ -71,21 +52,6 @@
   <a href="https://linkedin.com/in/ragul-arvinth-59269323a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/RagulArvinth"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
   <a href="mailto:k.ragularvinth@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RagulArvinth&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RagulArvinth&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RagulArvinth&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 ---
