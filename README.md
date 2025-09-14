@@ -13,7 +13,7 @@
 ---
 
 ###  About Me  
--  Computer Science Student**  
+-  Computer Science Student
 -  Passionate about **Automation | Cloud | Full-Stack Development**  
 -  Currently exploring **System Design & Advanced Cloud Architectures**  
 -  Reach me at: **[k.ragularvinth@gmail.com](mailto:k.ragularvinth@gmail.com)**  
