@@ -15,7 +15,7 @@
 ###  About Me  
 -  Computer Science Student
 -  Passionate about **Automation | Cloud | Full-Stack Development**  
--  Currently exploring **System Design & Advanced Cloud Architectures**  
+-  Currently exploring **System Design & Cloud Architectures**  
 -  Reach me at: **[k.ragularvinth@gmail.com](mailto:k.ragularvinth@gmail.com)**  
 
 ---
@@ -25,20 +25,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,angular,spring,fastapi,aws,azure,gcp,linux,docker,mysql,git,postman," />
 </p>
-
----
-
-###  Internship Experience  
-
- **Software Engineer Intern @ Opentext (2025 - Present)**  
-- Built **UI automation framework** for ALM WebClient using *Python, Playwright, Pytest*  
-- Developed **RESTful APIs** with Spring Boot (CRUD, filtering, scalable design)  
-- Hands-on with **GitLab CI/CD** + Manual testing for UI validation  
-
- **Software Engineer Intern @ Siemens (2024 - 2025)**  
-- Worked on a **cloud monitoring app** using Python, AWS Lambda, API Gateway, DynamoDB  
-- Developed **dashboards** & reusable **Angular v19 components** with ECharts  
-- Agile Scrum, GitLab CI/CD, sprint demos for stakeholders  
 
 ---
 
